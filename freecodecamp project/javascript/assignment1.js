@@ -132,6 +132,7 @@ for(i=1;i<=10;i=i+2){
     console.log(i)
 }*/
 
+
 //write a program first 10 multiples of 4 using while loop?
 
 var i=0;
